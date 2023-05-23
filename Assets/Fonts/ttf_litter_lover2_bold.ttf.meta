@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 562f575e1f15de74a8fe982f978e181e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LitterLover2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85a8fd6c9f03c7b42a7e71c24d834432, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
